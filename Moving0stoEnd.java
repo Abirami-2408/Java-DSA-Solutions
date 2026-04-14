@@ -4,8 +4,8 @@ public  static void moving0s(int arr[],int  n){
 for(int i=0;i<n;i++){
     if(arr[i]!=0){
         int temp=arr[i];
-        arr[j]=arr[i];
-        arr[i]=temp;
+        arr[i]=arr[j];
+        arr[j]=temp;
         j++;
     }
 }
