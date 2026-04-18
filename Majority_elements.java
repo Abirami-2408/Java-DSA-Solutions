@@ -23,7 +23,7 @@ class Majority_elements{
         int arr[]=new int []{2,2,3,3,2,2};
         int n=arr.length;
         int result=MajoritygreaterthanNby2(arr,n);
-        System.out.println(result);
+        System.out.println(result);//op:2
 
     }
 }
