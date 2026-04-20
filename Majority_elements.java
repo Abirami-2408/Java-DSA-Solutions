@@ -16,7 +16,7 @@ class Majority_elements{
         for(int i=0;i<n;i++){
             if(arr[i]==el) cnt++;    
         }
-        if(cnt>n/2) return el;
+        if(cnt>n/3) return el;
         return -1;
     }
     public static void main(String[] args){
