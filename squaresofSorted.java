@@ -12,6 +12,6 @@ public class squaresofSorted {
     public static void main(String[] args){
         int []nums={4,2,8,3};
        int[] res=sortedSquares(nums);
-        System.out.println(Arrays.toString(res));//{4,9,16}     
+        System.out.println(Arrays.toString(res));//{4,9,16,64}     
     }
 }
