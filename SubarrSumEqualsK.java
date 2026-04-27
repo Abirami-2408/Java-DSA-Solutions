@@ -24,12 +24,10 @@ public class SubarrSumEqualsK {
             if(mpp.containsKey(sum-k)){
                 cnt+=mpp.get(sum-k);
             }
-          
                 mpp.put(sum,mpp.getOrDefault(sum,0)+1);
         }
         return cnt;
      }
-    
     public static void main(String[] args) {
     int arr[] = {1,2,3};
     int n = arr.length;
