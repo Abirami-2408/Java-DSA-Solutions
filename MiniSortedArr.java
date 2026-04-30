@@ -17,6 +17,6 @@ public class MiniSortedArr {
     }
     public static void main(String args[]){
         int arr[]={4,5,6,7,1,2};
-        System.out.println(minimumarr(arr));
+        System.out.println(minimumarr(arr));//output:1 is a minimum.
     }
 }
