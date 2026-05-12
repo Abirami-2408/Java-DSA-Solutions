@@ -11,8 +11,9 @@ class Solution {
             }
             else{
                 tot+=curr;
-               prev=curr;  
+               
             }
+            prev=curr;  
          }
         return tot;
     }
