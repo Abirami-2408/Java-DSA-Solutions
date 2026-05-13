@@ -45,6 +45,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -61,6 +62,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -84,4 +86,8 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
