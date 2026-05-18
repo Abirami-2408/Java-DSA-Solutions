@@ -98,4 +98,8 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
