@@ -38,6 +38,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
@@ -66,6 +67,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -101,5 +103,6 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
