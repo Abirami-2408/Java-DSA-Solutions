@@ -125,6 +125,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -136,6 +137,11 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
