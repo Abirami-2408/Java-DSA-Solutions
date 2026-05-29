@@ -46,6 +46,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
