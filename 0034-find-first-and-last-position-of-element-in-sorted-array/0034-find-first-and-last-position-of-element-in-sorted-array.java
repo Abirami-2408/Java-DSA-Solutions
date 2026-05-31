@@ -13,9 +13,8 @@ class Solution {
 
         }
        
- low = 0;
+        low = 0;
         high = nums.length - 1;
-
         int second=-1;
         while(low<=high){
             int mid=(low+high)/2;
