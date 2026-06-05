@@ -137,6 +137,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Binary Search
@@ -147,6 +148,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
