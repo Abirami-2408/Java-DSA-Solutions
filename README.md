@@ -116,6 +116,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -175,4 +177,8 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
