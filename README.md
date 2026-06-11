@@ -41,6 +41,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -68,6 +69,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -109,6 +111,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -144,6 +147,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
