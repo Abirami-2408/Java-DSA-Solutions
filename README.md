@@ -82,6 +82,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -142,6 +143,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
