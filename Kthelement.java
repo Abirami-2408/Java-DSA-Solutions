@@ -29,6 +29,6 @@ class Kthelement {
         int a[]={1, 4, 8, 10, 12};
         int  b[] = {5, 7, 11, 15, 17};
         int k = 6;
-        System.out.println(kthElement(a,b,k));
+        System.out.println(kthElement(a,b,k));//10
     }
 }
