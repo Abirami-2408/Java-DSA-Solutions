@@ -165,6 +165,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -204,4 +205,5 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0048-rotate-image](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 <!---LeetCode Topics End-->
