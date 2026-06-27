@@ -106,6 +106,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Binary Search
@@ -188,6 +190,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
