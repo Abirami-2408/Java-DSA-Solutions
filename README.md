@@ -171,6 +171,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -190,6 +191,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
