@@ -100,12 +100,14 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0031-next-permutation/) | Medium |
@@ -170,13 +173,18 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -186,8 +194,13 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +218,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Matrix
