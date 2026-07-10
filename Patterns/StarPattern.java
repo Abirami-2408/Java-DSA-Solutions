@@ -17,7 +17,8 @@ public class StarPattern {
         }
     }
     public static void main(String[]args){
-        int n=4;
+        int n=4; 
+        pattern1(n);
          pattern2(n);     
 /* * 
   ** 
