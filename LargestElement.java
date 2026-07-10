@@ -19,14 +19,30 @@ public class LargestElement {
                 sec_large=arr[i];
             }
         }
-        return sec_large;//4
+        return sec_large;//2
     }
+     static int findSec_small(int[] arr){
+        int small=arr[0],sec_small=-1;
+        for(int i=1;i<arr.length;i++){
+            if(arr[i]<small){  
+                sec_small=small;
+                small=arr[i];
+            }
+            else if((arr[i]>small) && (arr[i]<sec_small)){
+                sec_small=arr[i];
+            }
+        }
+        return sec_small;//2
+    }
+
 
     
     public static void main(String args[]){
          int arr[] = {2,3,4,1,5};
          System.out.println(findLarge(arr));
          System.out.println(findSec_Large(arr));
+          System.out.println(findSec_small(arr));
+
          
     }
 }
