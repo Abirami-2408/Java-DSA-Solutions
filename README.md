@@ -37,6 +37,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -149,6 +150,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
