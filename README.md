@@ -37,6 +37,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -149,6 +150,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -156,12 +158,14 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -170,6 +174,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -205,6 +210,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Backtracking
@@ -225,6 +231,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -233,4 +240,8 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
