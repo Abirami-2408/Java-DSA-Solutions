@@ -41,14 +41,38 @@ public class StarPattern {
             System.out.println(" ");
         }
     }
+    static void pattern6(int n) {
+        for(int i=0;i<n;i++){
+           int breakpoint=(2*i+1)/2;
+            for(int j=0;j<=n-i-1;j++){
+                System.out.print(" ");
+            }
+            char ch='A';
+            for(int k=1;k<=(2*i+1);k++) {
+            System.out.print(ch);
+if(k<=breakpoint){
+    ch++;
+}
+else ch--;
+            }
+             for(int j=0;j<=n-i-1;j++){
+                System.out.print(" ");
+            }
+
+            System.out.println(" ");
+        }
+    }
+    
+
 
     
     public static void main(String[]args){
-        int n=4; 
-       // pattern4(n);
-         //pattern2(n);    
-        // pattern3(n); 
-         pattern5(n);
+        int n=5; 
+       /*pattern4(n);
+        pattern2(n);    
+        pattern3(n); 
+        pattern5(n);   */ 
+        pattern6(n);
     
     }   
 }
