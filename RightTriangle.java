@@ -39,10 +39,36 @@ for(int j=1;j<=i;j++){
 System.out.println(" ");
      }
     }
+    static void pat3(int n){
+        int space=2*n-2;
+        for(int i=1;i<=2*n-1;i++){
+             int stars=i;
+             if(i>n){
+                stars=2*n-i;
+             }
+             for(int j=1;j<=stars;j++){
+                System.out.print("*");
+             }
+              for(int k=1;k<=space;k++){
+                System.out.print(" ");
+            }
+              for(int j=1;j<=stars;j++){
+                System.out.print("*");
+             }
+             System.out.println(" ");
+if(i<n){
+    space-=2;
+}
+else space+=2;
+ }
+      
+
+       
+    }
       public static void main(String[] args){
         int n=5;
         //pat1(n);
-        pat2(n);
+        pat3(n);
       }
     
 }
