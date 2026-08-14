@@ -17,5 +17,13 @@ class zohoPat{
     public static void main(String[] args) {
         int num=4;
         func(num);
+/*output is:
+1
+3 2
+6 5 4
+10 9 8 7
+13 12 11
+15 14
+16 */
     }
 }
