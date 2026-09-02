@@ -258,6 +258,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
