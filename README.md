@@ -38,6 +38,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -57,6 +58,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
@@ -255,6 +257,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Bracket Sequences
