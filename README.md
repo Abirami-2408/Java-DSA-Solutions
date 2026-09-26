@@ -187,6 +187,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -211,6 +212,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -230,6 +232,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
