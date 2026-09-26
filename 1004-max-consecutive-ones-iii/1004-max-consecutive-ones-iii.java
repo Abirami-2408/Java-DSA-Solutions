@@ -4,7 +4,7 @@ class Solution {
         while (r < n) {
             if (nums[r] == 0)
                 zeros++;
-            if (zeros > k) {
+            if (zeros > k && l < r) {
                 if (nums[l] == 0) {
                     zeros--;
                 }
