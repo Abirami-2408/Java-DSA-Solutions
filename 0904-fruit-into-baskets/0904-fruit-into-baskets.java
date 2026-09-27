@@ -5,7 +5,7 @@ class Solution {
         for (r = 0; r < fruits.length; r++) {
             mpp.put(fruits[r], mpp.getOrDefault(fruits[r], 0) + 1);
         
-            while (mpp.size() > 2) {
+           if (mpp.size() > 2) {
                 int leftfruit = fruits[l];
                 mpp.put(leftfruit, mpp.get(leftfruit) - 1);
             
