@@ -106,6 +106,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0048-rotate-image](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -180,6 +181,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0162-find-peak-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -277,4 +279,24 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
