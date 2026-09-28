@@ -1,8 +1,11 @@
 public class Sumofarr {
    
   public static int sum(int arr[], int n) {
-      int ans=n*(n+1)/2;
-     return ans;
+        int sum=0;
+       for(int a:arr){
+        sum+=a;
+       }
+     return sum;
     }
 public static void main(String[] args) {
     int n=5;
