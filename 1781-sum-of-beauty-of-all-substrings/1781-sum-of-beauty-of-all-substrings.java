@@ -11,8 +11,7 @@ class Solution {
         for(int i=0;i<26;i++){
             if(freq[i]!=0){
                 min=Math.min(min,freq[i]);
-            }
-            
+            }  
         }
         return min;
     }
@@ -25,7 +24,6 @@ class Solution {
                 sum+=getMax(freq)-getMin(freq);
             }
         }
-        return sum;
-        
+        return sum; 
     }
 }
