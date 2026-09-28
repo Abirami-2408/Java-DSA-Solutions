@@ -21,3 +21,4 @@ public class Secret {
         secret(s);// output :LI
     }
 }
+ 

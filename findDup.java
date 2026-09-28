@@ -1,9 +1,6 @@
 import java.util.Arrays;
-
 public class findDup {
-
     public static int[] findDupli(int[] arr1, int[] arr2) {
-
         int i = 0;
         int j = 0;
         int k = 0;

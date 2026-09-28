@@ -9,7 +9,7 @@ if(arr[i]<arr[j]){
     break;
 }
 }
-System.out.print(greater+" ");
+System.out.print(greater+" ");//5 25 25 -1  
         }
     }
 }

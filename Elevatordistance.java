@@ -2,7 +2,7 @@ public class Elevatordistance {
     public static int elevatordis(int ar[]){
         int dis=0,dif=0;
         for(int i=0;i<ar.length-1;i++){
-            dif=(ar[i]-ar[i+1]);
+            dif=(ar[i]-ar[i+1]);//Math.abs(ar[i]-ar[i+1])
             if (dif<0) dif=-dif;
             dis+=dif;
         }

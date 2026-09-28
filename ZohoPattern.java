@@ -8,12 +8,15 @@ public static void pat(int n){
             cur=cur+gap; gap--;
         } 
        
-        
-        System.out.println(" ");
+        System.out.println();
     }
 }
 public static void main(String[]args){
     int n=5;
-    pat(n);
+    pat(n);/*1
+2 6
+3 7 10
+4 8 11 13
+5 9 12 14 15*/
 }
 }

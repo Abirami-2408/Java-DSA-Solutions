@@ -22,7 +22,10 @@ public class Largestsubarr {
 
     public static void main(String[] args) {
         int arr[]={1,2,3,1,1,1,1,3,3};int k=3;
-        System.out.print(func(arr,k));
+        System.out.print(func(arr,k));//output is 3
+    /*1 2→ sum = 3 → length = 2
+    3→ sum =3      → length = 1
+    1 1 1→ sum =3  → length = 3  ← maximum */  
 
     }
 }

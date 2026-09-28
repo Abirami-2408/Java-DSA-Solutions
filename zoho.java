@@ -14,7 +14,8 @@ public static void pat(int n){
 }
 public static void main(String[]args){
     int n=5;
-    pat(n);/*1
+    pat(n);
+/*1
 2 6
 3 7 10
 4 8 11 13

@@ -19,7 +19,7 @@ public class EvenOdd {
 int k=0;
     
     // for even and odd
-    while(e<even.size()){
+    while(e<even.size()){ 
          ans[k++]=even.get(e++);
     }
     while(o<odd.size()){

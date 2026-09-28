@@ -41,6 +41,8 @@ public class substring {
                 l++;
             }
         }
+        if (minLen == Integer.MAX_VALUE)
+    return "";
 
         return s.substring(start, start + minLen);
     }

@@ -6,15 +6,16 @@ public class ip {
             }
             return;
         }
-        for(int i=index;i<s.length();i++){
+        for(int i=index;i<s.length();i++){ 
             String part=s.substring(index,i+1);
             if(part.length()>1 && part.charAt(0)=='0') break;
             if(Integer.parseInt(part)>255)break;
             findIp(s, i+1, parts+1, current+part+".");
         }
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         String s="101023";
         findIp(s, 0, 0, "");
+        //output:1.0.10.23.,1.0.102.3.,10.1.0.23. ,10.10.2.3. ,101.0.2.3.
     }
 }

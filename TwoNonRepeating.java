@@ -17,9 +17,7 @@ public class TwoNonRepeating {
     public static void main(String[] args) {
         int []arr={1,2,3,3,4,4,4,4,5};
         int[] res=TwoNonRepeating(arr);
-        System.out.print(Arrays.toString(res));
-       /*for(int i=0;i<res.length;i++){
-            System.out.print(res[i]);
-        } */ 
+        System.out.print(Arrays.toString(res));//output:[3,4]
+       
     }
 }
