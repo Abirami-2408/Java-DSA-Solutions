@@ -17,12 +17,12 @@ class Solution {
                 mp.put(leftchar, mp.get(leftchar) - 1);
                 l++;
             }
-
+if ((r - l + 1) - maxfreq <= k) {
             maxlen = Math.max(maxlen, r - l + 1);
 
             r++;
         }
-
+        }
         return maxlen;
     }
 }
