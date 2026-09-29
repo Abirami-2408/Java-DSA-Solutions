@@ -12,7 +12,7 @@ class Solution {
 
             maxfreq = Math.max(maxfreq, mp.get(c));
 
-            while ((r - l + 1) - maxfreq > k) {
+            if ((r - l + 1) - maxfreq > k) {
                 char leftchar = s.charAt(l);
                 mp.put(leftchar, mp.get(leftchar) - 1);
                 l++;
