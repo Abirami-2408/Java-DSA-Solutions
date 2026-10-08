@@ -69,6 +69,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -101,6 +102,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
