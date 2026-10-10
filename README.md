@@ -318,6 +318,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0511-game-play-analysis-i](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0595-big-countries](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1683-invalid-tweets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1683-invalid-tweets/) | Easy |
