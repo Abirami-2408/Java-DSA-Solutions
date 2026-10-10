@@ -315,4 +315,8 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1683-invalid-tweets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
