@@ -328,6 +328,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0619-biggest-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1174-immediate-food-delivery-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1683-invalid-tweets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1873-calculate-special-bonus/) | Easy |
