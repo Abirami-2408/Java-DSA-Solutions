@@ -329,6 +329,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0619-biggest-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1148-article-views-i](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1683-invalid-tweets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1683-invalid-tweets/) | Easy |
