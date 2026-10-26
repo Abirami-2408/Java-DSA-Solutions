@@ -332,6 +332,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [1211-queries-quality-and-percentage](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1683-invalid-tweets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
