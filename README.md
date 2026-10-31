@@ -86,6 +86,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -100,6 +101,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -186,6 +188,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0136-single-number/) | Easy |
