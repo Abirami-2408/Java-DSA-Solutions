@@ -42,6 +42,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -51,6 +52,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -63,13 +65,18 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -79,6 +86,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -93,11 +101,14 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -106,7 +117,9 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0048-rotate-image](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -143,6 +156,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Linked List
@@ -161,6 +175,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0031-next-permutation/) | Medium |
@@ -173,12 +188,15 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0075-sort-colors](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -264,6 +282,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -271,9 +290,57 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0511-game-play-analysis-i](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0584-find-customer-referee](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0595-big-countries](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0610-triangle-judgement](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1148-article-views-i](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1148-article-views-i/) | Easy |
+| [1174-immediate-food-delivery-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1683-invalid-tweets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1683-invalid-tweets/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1873-calculate-special-bonus/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
