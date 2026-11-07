@@ -56,6 +56,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1002-find-common-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
@@ -76,6 +77,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0409-longest-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1002-find-common-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -209,6 +211,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0704-binary-search](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1002-find-common-characters](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
