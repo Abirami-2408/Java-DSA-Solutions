@@ -155,6 +155,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0005-longest-palindromic-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -196,6 +197,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
