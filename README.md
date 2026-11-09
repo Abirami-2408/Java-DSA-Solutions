@@ -68,6 +68,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -119,6 +120,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [0013-roman-to-integer](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -250,6 +252,7 @@ I regularly push accepted LeetCode solutions to this repository.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -287,6 +290,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
