@@ -349,6 +349,7 @@ I regularly push accepted LeetCode solutions to this repository.
 | [1148-article-views-i](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Abirami-2408/Java-DSA-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
